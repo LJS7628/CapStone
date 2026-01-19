@@ -5,9 +5,12 @@
 <br>
 
 ___
-### 2D 턴제 게임 설명
+### 2D 턴제 흐름도
 
-<img src="https://github.com/user-attachments/assets/be21d963-7fb3-4267-9354-79b9556a7976" width="70%" height="70%">
+<img src="https://github.com/user-attachments/assets/e6552401-0067-46d2-aa9f-66665937b2ad" width="70%" height="70%">
+<img src="https://github.com/user-attachments/assets/2628dfa8-4d23-4eec-b70a-f3eca2e12b46" width="70%" height="70%">
 
+<br><br><br>
 
+### 인 게임
 ___
